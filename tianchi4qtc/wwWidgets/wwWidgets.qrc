@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/hspicker.png</file>
+        <file>images/hsrpicker.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/qcustomplot.png</file>
+        <file>images/TcDateEdit.png</file>
+        <file>images/TcColorWheel.png</file>
+    </qresource>
+</RCC>
